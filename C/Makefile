@@ -6,18 +6,18 @@
 #    By: gdelabro <gdelabro@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2016/12/15 15:37:25 by gdelabro          #+#    #+#              #
-#    Updated: 2018/12/03 17:33:52 by gdelabro         ###   ########.fr        #
+#    Updated: 2018/12/03 19:10:25 by gdelabro         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 PROG_NAME1 = Colleen
-SRC_PROG1 = C/Colleen.c
+SRC_PROG1 = Colleen.c
 
 PROG_NAME2 = Grace
-SRC_PROG2 = C/Grace.c
+SRC_PROG2 = Grace.c
 
 PROG_NAME3 = Sully
-SRC_PROG3 = C/Sully.c
+SRC_PROG3 = Sully.c
 
 
 all: $(PROG_NAME1) $(PROG_NAME2) $(PROG_NAME3)
